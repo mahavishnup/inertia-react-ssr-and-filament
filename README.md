@@ -1,1 +1,1 @@
-# Inertia React SSR
+# Inertia React SSR & Filament
